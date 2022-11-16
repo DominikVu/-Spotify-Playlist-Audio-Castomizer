@@ -1,3 +1,5 @@
+## If you're a music fan like me, you certainly want something more from your playlist!
+## That's why I'm sharing with you, my version of:
 # Spotify-Playlist-Audio-Castomizer
 
 ### Select any Spotify Playlist >>> Sort & Filter according to your personal preferences!
